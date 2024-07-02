@@ -20,6 +20,16 @@ body {
   perspective: 1000px;
 }
 
+.message {
+  position: absolute;
+  top: 10px;
+  left: 50%;
+  transform: translateX(-50%);
+  font-size: 14px;
+  color: #fdfafa;
+  font-family: Arial, sans-serif;
+}
+
 .night {
   position: fixed;
   left: 50%;
