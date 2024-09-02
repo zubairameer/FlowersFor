@@ -22,7 +22,7 @@ body{
 @keyframes glow{
     0%, 100%{
         color: #fff;
-        text-shadow: 0 0 12px #e23a07, 0 0 50px #d66d39, 0 0 100px #39c6d6;
+        text-shadow: 0 0 12px #e2078e, 0 0 50px #d639b4, 0 0 100px #d639b4;
     }
     10%, 90%{
         color: #111;
